@@ -1,0 +1,11 @@
+[package]
+name = "meshgrid"
+version = "0.1.0"
+authors = ["DimChtz"]
+description = "Meshgrid functionality for Rust."
+keywords = ["meshgrid", "mesh", "grid", "meshgrid-rust", "rust-meshgrid"]
+license = "MIT"
+repository = "https://github.com/DimChtz/rust-meshgrid"
+readme = "README.md"
+
+[dependencies]
